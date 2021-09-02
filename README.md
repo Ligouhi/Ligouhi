@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=Ligouhi&theme=radical) ![Ligouhi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ligouhi&show_icons=true&langs_count=10&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Ligouhi&theme=radical)
+![Ligouhi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ligouhi&show_icons=true&layout=compact&langs_count=10&theme=radical)
